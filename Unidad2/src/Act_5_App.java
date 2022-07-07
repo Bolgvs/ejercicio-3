@@ -1,4 +1,4 @@
-public class Act_5 {
+public class Act_5_App {
 	
 	public static void main (String args []) {
 		
